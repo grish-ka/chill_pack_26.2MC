@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "instance/.minecraft/packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
+file = "instance/instance.cfg"
+hash = "8fb434debac1d732f35a025a1ad46c753507630abb4691c2e83f68b4ef876dce"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "62feaecc7c5afcf698c72f5f5edfda9562a2b2b6da30868cd36474c813073348"
 metafile = true
