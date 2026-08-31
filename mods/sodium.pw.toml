@@ -3,7 +3,7 @@ filename = "sodium-fabric-0.9.1-fabric.jar"
 side = "client"
 
 [download]
-url = "https://modrinth.com/mod/sodium/version/mc26.2-0.9.1-fabric"
+url = "https://cdn.modrinth.com/data/AANobbMI/versions/2Yom1N68/sodium-fabric-0.9.1%2Bmc26.2.jar?mr_download_reason=standalone&mr_loader=fabric"
 hash-format = "sha512"
 hash = "84e27f08b35f29d2f2d9c08535032c54f59e9c3e98f029b9e0f6c2f9435b6251b5ea18e24c538bc114251e0413fcf02bb8efc1df83e601c9a622432ef17e6e5a"
 

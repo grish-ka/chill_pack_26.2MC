@@ -55,7 +55,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "2cebce7154e5eb2b3787c69795893fc57b2df92b6acc710a7d5b1675029ec34f"
+hash = "6da96614822631b745e31260b1658d5b70b04412bc933835b9347b19b1c75c36"
 metafile = true
 
 [[files]]
@@ -90,7 +90,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "521c8241593053f877a89ce447c64392c3619e16c2001b3cac7d72cbde8392d0"
+hash = "ff0b00fac19156f43a8980787d6703d4ffe4d932c737f54083c876695069be8b"
 metafile = true
 
 [[files]]
