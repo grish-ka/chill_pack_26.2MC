@@ -1,0 +1,13 @@
+name = "Chill Pack 26 . 2 Mc"
+author = "Grishkka"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "bd4fbd44605c640f2fa11e2474295ff82deaf9290a894afd7c3d9d1c37fa9d60"
+
+[versions]
+fabric = "0.19.5"
+minecraft = "26.2"
